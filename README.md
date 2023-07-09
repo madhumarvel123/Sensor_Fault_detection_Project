@@ -1,4 +1,5 @@
 # Sensor_Fault_detection_Project
+In the given problem statement, our primary objective is to minimize both false positives and false negatives. However, the emphasis is placed on reducing false negatives, as the financial impact associated with false negatives is 50 times greater than that of false positives.
 ### Problem statement
 The dataset consists of data collected from heavy Scania trucks in everyday usage. The system in focus is the Air Pressure system (APS) which generates pressurised air that are utilized in various functions in a truck, such as braking and gear changes. The datasets' positive class consists of component failures for a specific component of the APS system. The negative class consists of trucks with failures for components not related to the APS. The data consists of a subset of all available data, selected by experts.
 
